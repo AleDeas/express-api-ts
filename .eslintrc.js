@@ -8,6 +8,7 @@
     "project": [
       "./tsconfig.json"
     ]
+  
   },
   "extends": "airbnb-typescript/base",
   "plugins": [

@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Chilless19.",
+      "database": "ristorante",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
